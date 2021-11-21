@@ -8,7 +8,7 @@ const Profile = () => {
             alignContent:"center",
             flex:1
         }}>
-            <Text>Profile</Text>
+            <Text style={{}}>Profile</Text>
         </View>
     )
 }
