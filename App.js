@@ -1,4 +1,4 @@
-import React from 'react'
+import React,{useState} from 'react'
 import { NavigationContainer } from '@react-navigation/native'
 import HomeStackNavigator from "./src/navigations/Navigator"
 const App = () => {
